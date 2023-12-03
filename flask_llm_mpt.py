@@ -4,9 +4,9 @@ import requests
 app = Flask(__name__)
 
 # Databricks endpoint details
-API_BASE = "https://adb-3849325689522069.9.azuredatabricks.net"
+API_BASE = ""
 ENDPOINT = "serving-endpoints/mpt7b/invocations"
-API_KEY = "dapid5958d21d09377a327be2de83d1a9eb5-2"
+API_KEY = ""
 HEADERS = {"Content-Type": "application/json", "Authorization": f"Bearer {API_KEY}"}
 
 @app.route('/openai/deployments/mpt7b/chat/completions', methods=['POST'])
