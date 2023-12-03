@@ -65,8 +65,8 @@ with st.sidebar:
 config_list_all = [
     {
         'model': 'gpt-4-32k',
-        'api_key': 'f84978cd0c4f4006beabfbc6aadf8c06',
-        "base_url": "https://cog-keslq7urc6ly4.openai.azure.com/",
+        'api_key': '',
+        "base_url": "",
         "api_type": "azure",
         "api_version": "2023-05-15"
     },
@@ -80,7 +80,7 @@ config_list_all = [
 ]
 
 openai_mm_llm = OpenAIMultiModal(
-    model="gpt-4-vision-preview", api_key='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', max_new_tokens=300
+    model="gpt-4-vision-preview", api_key='sk-', max_new_tokens=300
 )
 
 user_input = st.chat_input("Provide your name, asset details, a brief issue description, and optionally import a picture using the left panel's import function.")  
