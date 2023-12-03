@@ -1,0 +1,12 @@
+workOrderNumber,subject,status,actualStartDateTime,assetName,assetSkills,assetFloor,assetBuildingFloorLocation,workOrderPrimaryAgentName,createdDate,createdBy,totalWorkTime,resolutionType,resolvedDate,satificationRating,resolutionNotes,assetBuilding
+1,Office area level 8 - Bulb T5 28watt faulty,Resolved,2023-11-02,Lamp Bulb,ELECTRICAL,Level 8,L8 OFFICE AREA FEDERAL VIEW,Barry,2023-11-02,Autogen,25,Completed with Success,2023-11-02,5,"Replace 2 unit bulb T5 28watt
+done",
+2, Lobby lif lighting trip Level 8 view federal,Resolved,2023-11-10,Lift Lighting,ELECTRICAL,Level 8,L8 LIFT LOBBY,Barry,2023-11-10,Site Admin,25,Completed with Success,2023-11-10,5,"T-shoot 1 circuit 10amp trip
+1 unit driver led Faulty - replace new
+reset MCB ok
+done",
+3,Lobby lif level 3 - Led downlight blinking,Resolved,2023-11-19,LED Downlight,ELECTRICAL,Level 3,L3 LIFT LOBBY,Ali,2023-11-19,Autogen,8,Completed with Success,2023-11-20,5,"Replace 1 unit led downlight
+done",
+4,"Bulb lampu faulty Staircase 1 level 3a , 1 View federal",Resolved,2023-11-19,Staircase Lighting,ELECTRICAL,Level 3A,L3A OFFICE AREA FEDERAL VIEW,Ali,2023-11-19,Site Admin,25,Completed with Success,2023-11-20,5,"Replace 2 unit led T8 16watt
+adjust fitting wiring
+done",
