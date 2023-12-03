@@ -58,8 +58,8 @@ with st.sidebar:
 config_list = [
     {
         'model': selected_model,
-        'api_key': 'f84978cd0c4f4006beabfbc6aadf8c06',
-        "base_url": "https://cog-keslq7urc6ly4.openai.azure.com/",
+        'api_key': '',
+        "base_url": "",
         "api_type": "azure",
         "api_version": "2023-05-15"
     }
