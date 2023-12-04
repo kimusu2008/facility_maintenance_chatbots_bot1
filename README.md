@@ -38,3 +38,5 @@ ENDPOINT = ""
 
 5. At the same time, run the databricks LLM proxy server (flask) api locally or in a server: python flask_llm_mpt.py
 
+6. Image file imported by user will be saved in the 'image' folder
+
